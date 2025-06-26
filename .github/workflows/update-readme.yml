@@ -1,0 +1,35 @@
+name: Update README with years of experience
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Every Monday
+  workflow_dispatch:      # Allows manual runs
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate and update years of experience
+        run: |
+          START_DATE="2020-01-01"
+          TODAY=$(date +%Y-%m-%d)
+          START_SECONDS=$(date -d "$START_DATE" +%s)
+          TODAY_SECONDS=$(date -d "$TODAY" +%s)
+          DIFF_YEARS=$(( (TODAY_SECONDS - START_SECONDS) / 31556952 ))  # Approx seconds/year
+
+          sed -i "s/{{years_of_experience}}/${DIFF_YEARS}/g" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update years of experience"
+            git push
+          fi
