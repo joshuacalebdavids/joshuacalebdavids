@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * 1'  # Every Monday
   workflow_dispatch:      # Allows manual runs
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
