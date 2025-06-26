@@ -1,7 +1,7 @@
 ### 💫 Hi, I'm Joshua Caleb Davids:
 I'm a WordPress developer based in Cape Town, South Africa, with a genuine passion for building purposeful, user-friendly web experiences. What began as a curiosity about how websites work and how content ranks on Google quickly turned into a full-time journey of learning, building, and growing.
 
-Over the past {{years_of_experience}} years, I’ve created websites using page builders, but recently I’ve shifted my focus to custom WordPress development. These days, I enjoy building themes and plugins from scratch, keeping things lightweight and efficient without relying heavily on tools like Elementor.
+Over the past 5 years, I’ve created websites using page builders, but recently I’ve shifted my focus to custom WordPress development. These days, I enjoy building themes and plugins from scratch, keeping things lightweight and efficient without relying heavily on tools like Elementor.
 
 While frontend development has always been a strong interest, I’ve been diving deeper into backend development and discovering a real passion for it. I care about writing clean, maintainable code and work well both independently and in a team setting. I’m constantly looking for new challenges and opportunities to grow as a developer.
 
