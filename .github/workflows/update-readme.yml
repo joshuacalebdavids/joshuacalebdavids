@@ -17,7 +17,7 @@ jobs:
 
       - name: Calculate and update years of experience
         run: |
-          START_DATE="2020-01-01"
+          START_DATE="2020-10-07"
           TODAY=$(date +%Y-%m-%d)
           START_SECONDS=$(date -d "$START_DATE" +%s)
           TODAY_SECONDS=$(date -d "$TODAY" +%s)
