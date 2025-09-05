@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/banner.png" alt="Project Banner" width="100%" />
+</p>
+
 ### 💫 Hi, I'm Joshua Caleb Davids:
 I'm a WordPress developer based in Cape Town, South Africa, with a genuine passion for building purposeful, user-friendly web experiences. What began as a curiosity about how websites work and how content ranks on Google quickly turned into a full-time journey of learning, building, and growing.
 
