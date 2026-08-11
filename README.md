@@ -39,6 +39,26 @@ $currently = [
 | :--- | :--- | :--- |
 | Responsive, intuitive interfaces built around real users. | Lean themes and plugins shaped to fit the project—not the other way around. | A calm, curious approach to debugging, collaboration, and learning. |
 
+### From idea to launch
+
+```mermaid
+flowchart LR
+    A["💡 Purpose"] --> B["🧭 Strategy"]
+    B --> C{"Best path?"}
+    C --> D["Custom theme"]
+    C --> E["Purpose-built plugin"]
+    C --> F["Gutenberg experience"]
+    D --> G["Fast, useful website"]
+    E --> G
+    F --> G
+    G --> H["🚀 Learn · refine · grow"]
+
+    classDef gold fill:#C9A66B,stroke:#96713A,color:#171717,stroke-width:2px;
+    classDef dark fill:#171717,stroke:#C9A66B,color:#FFFFFF,stroke-width:2px;
+    class A,G,H gold;
+    class B,C,D,E,F dark;
+```
+
 ### Toolbox
 
 **Core**
@@ -70,6 +90,21 @@ $currently = [
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=1F1F1F)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### GitHub, visualized
+
+<p align="center">
+  <img height="165" src="./profile/stats.svg" alt="Joshua's GitHub statistics" />
+  <img height="165" src="./profile/top-langs.svg" alt="Languages used across Joshua's public GitHub repositories" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-snake.svg" />
+  <img src="./profile/contribution-snake.svg" alt="Animated visualization of Joshua's GitHub contribution graph" width="100%" />
+</picture>
+
+<sub>These visuals regenerate automatically from my public GitHub activity every day.</sub>
 
 ### Explore my work
 
