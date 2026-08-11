@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/banner.png" alt="Joshua Caleb Davids — Next.js, React, GSAP and PHP developer" width="100%" />
+  <img src="./img/banner-sage.png" alt="Joshua Caleb Davids — Next.js, React, GSAP and PHP developer" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Joshua 👋</h1>
@@ -12,12 +12,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/GSAP-C9A66B?style=for-the-badge&logo=greensock&logoColor=171717" alt="GSAP" />
+  <img src="https://img.shields.io/badge/GSAP-A3B18A?style=for-the-badge&logo=greensock&logoColor=171717" alt="GSAP" />
   <img src="https://img.shields.io/badge/PHP-171717?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshuacalebdavids/"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-C9A66B?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Joshua on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/joshuacalebdavids/"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-A3B18A?style=for-the-badge&logo=linkedin&logoColor=171717" alt="Connect with Joshua on LinkedIn" /></a>
   <a href="mailto:joshuadavids.jcd@gmail.com"><img src="https://img.shields.io/badge/Say_hello-Email-171717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Joshua" /></a>
   <a href="https://codepen.io/joshuacalebdavids"><img src="https://img.shields.io/badge/See_my_experiments-CodePen-171717?style=for-the-badge&logo=codepen&logoColor=white" alt="View Joshua's CodePen profile" /></a>
 </p>
@@ -56,9 +56,9 @@ flowchart LR
     B --> F["Fast, expressive experience"]
     F --> G["🚀 Measure · refine · grow"]
 
-    classDef gold fill:#C9A66B,stroke:#96713A,color:#171717,stroke-width:2px;
-    classDef dark fill:#171717,stroke:#C9A66B,color:#FFFFFF,stroke-width:2px;
-    class B,F gold;
+    classDef sage fill:#A3B18A,stroke:#588157,color:#171717,stroke-width:2px;
+    classDef dark fill:#171717,stroke:#A3B18A,color:#FFFFFF,stroke-width:2px;
+    class B,F sage;
     class A,C,D,E,G dark;
 ```
 
@@ -115,7 +115,7 @@ flowchart LR
 This profile is where I share the Next.js interfaces, React experiments, and full-stack ideas I'm building and refining. Have a look through my repositories—or reach out if something sparks an idea.
 
 <p align="center">
-  <a href="https://github.com/joshuacalebdavids?tab=repositories"><img src="https://img.shields.io/badge/Browse_my_repositories-C9A66B?style=for-the-badge&logo=github&logoColor=171717" alt="Browse Joshua's GitHub repositories" /></a>
+  <a href="https://github.com/joshuacalebdavids?tab=repositories"><img src="https://img.shields.io/badge/Browse_my_repositories-A3B18A?style=for-the-badge&logo=github&logoColor=171717" alt="Browse Joshua's GitHub repositories" /></a>
 </p>
 
 ---

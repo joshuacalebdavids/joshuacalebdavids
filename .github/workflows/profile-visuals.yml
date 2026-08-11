@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=00000000&title_color=C9A66B&icon_color=C9A66B&text_color=8B949E"
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=00000000&title_color=A3B18A&icon_color=A3B18A&text_color=8B949E"
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -39,7 +39,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=C9A66B&text_color=8B949E"
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=A3B18A&text_color=8B949E"
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -49,8 +49,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            profile/contribution-snake.svg?color_snake=C9A66B&color_dots=#ebedf0,#e8dcc7,#d9bf91,#c9a66b,#96713a
-            profile/contribution-snake-dark.svg?palette=github-dark&color_snake=E6C98C&color_dots=#161b22,#4a3b25,#725730,#a87d3e,#e6c98c
+            profile/contribution-snake.svg?color_snake=A3B18A&color_dots=#ebedf0,#dce5d6,#c7d6be,#a3b18a,#588157
+            profile/contribution-snake-dark.svg?palette=github-dark&color_snake=A3B18A&color_dots=#161b22,#26352a,#3a5140,#588157,#a3b18a
 
       - name: Publish generated visuals
         run: |
