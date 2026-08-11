@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./img/banner-sage-wordpress.png" alt="Joshua Caleb Davids — Next.js, React, GSAP, PHP and WordPress developer" width="100%" />
-</p>
-
 <h1 align="center">Hey, I'm Joshua 👋</h1>
 
 <p align="center">
