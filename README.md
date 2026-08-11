@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./img/banner-sage.png" alt="Joshua Caleb Davids — Next.js, React, GSAP and PHP developer" width="100%" />
+  <img src="./img/banner-sage-wordpress.png" alt="Joshua Caleb Davids — Next.js, React, GSAP, PHP and WordPress developer" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Joshua 👋</h1>
 
 <p align="center">
-  <strong>Next.js & React Developer · GSAP Motion · PHP Backend</strong><br />
+  <strong>Next.js & React Developer · GSAP Motion · PHP & WordPress</strong><br />
   Based in Cape Town, South Africa 🇿🇦
 </p>
 
@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/GSAP-A3B18A?style=for-the-badge&logo=greensock&logoColor=171717" alt="GSAP" />
   <img src="https://img.shields.io/badge/PHP-171717?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/WordPress-171717?style=for-the-badge&logo=wordpress&logoColor=A3B18A" alt="WordPress" />
 </p>
 
 <p align="center">
@@ -28,22 +29,23 @@
 
 I'm a frontend-focused developer with 5+ years in web development, now building modern web experiences with **Next.js** and **React**. I care about interfaces that load quickly, feel intuitive, and have just enough personality to be memorable. With **GSAP**, I turn motion into part of the experience—not decoration added at the end.
 
-My **PHP** and WordPress background gives me a practical backend foundation too. That combination lets me think beyond individual components and understand the full journey from content and data to the experience in the browser.
+A huge part of my 5+ years in web development has been spent with **PHP** and **WordPress**, including custom themes, plugins, and content experiences. That depth gives me a practical backend and CMS foundation—and lets me understand the full journey from content and data to the experience in the browser.
 
 ```js
 const focus = {
   frontend: ["Next.js", "React"],
   motion: "GSAP",
   backend: "PHP",
+  cms: "WordPress",
   goal: "fast, useful, memorable experiences",
 };
 ```
 
 ### What I bring to the build
 
-| ▲ Next.js engineering | ✦ Motion with purpose | ⚙️ Full-stack perspective |
+| ▲ Next.js engineering | ✦ Motion with purpose | ⚙️ PHP & WordPress depth |
 | :--- | :--- | :--- |
-| Responsive React interfaces built for performance and maintainability. | GSAP interactions that guide attention and make products feel alive. | PHP experience that connects the polished frontend to practical backend systems. |
+| Responsive React interfaces built for performance and maintainability. | GSAP interactions that guide attention and make products feel alive. | Years of CMS experience connecting polished frontends to practical content systems. |
 
 ### From idea to launch
 
@@ -52,7 +54,7 @@ flowchart LR
     A["💡 Product idea"] --> B["Next.js application"]
     C["React component system"] --> B
     D["GSAP motion layer"] --> B
-    E["PHP backend & content"] --> B
+    E["PHP & WordPress content"] --> B
     B --> F["Fast, expressive experience"]
     F --> G["🚀 Measure · refine · grow"]
 
@@ -71,6 +73,7 @@ flowchart LR
 ![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=050505)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 **Frontend ecosystem**
 
@@ -85,7 +88,6 @@ flowchart LR
 
 **Backend, CMS & delivery**
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Gutenberg](https://img.shields.io/badge/Gutenberg-077CB2?style=flat-square&logo=gutenberg&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=flat-square&logo=webpack&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
