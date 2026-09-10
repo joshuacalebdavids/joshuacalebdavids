@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Joshua Caleb Davids&#39; GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 11, Total Commits  : 213, Total PRs: 10, Total Issues: 0, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 11, Total Commits  : 213, Total PRs: 10, Total Issues: 0, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -218,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >3</text>
     </g>
   </g>
     </svg>
