@@ -23,7 +23,7 @@
 
 ### I build fast, expressive web experiences.
 
-I'm a frontend-focused developer with 5+ years in web development, now building modern web experiences with **Next.js** and **React**. I care about interfaces that load quickly, feel intuitive, and have just enough personality to be memorable. With **GSAP**, I turn motion into part of the experience, not decoration added at the end.
+I'm a frontend-focused developer with 6+ years in web development, now building modern web experiences with **Next.js** and **React**. I care about interfaces that load quickly, feel intuitive, and have just enough personality to be memorable. With **GSAP**, I turn motion into part of the experience, not decoration added at the end.
 
 A huge part of my 6+ years in web development has been spent with **PHP** and **WordPress**, including custom themes, plugins, and content experiences. That depth gives me a practical backend and CMS foundation and lets me understand the full journey from content and data to the experience in the browser.
 
